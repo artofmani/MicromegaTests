@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: 3ce1ce2c2d753fb468a0f68cf085314c
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Bras G 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 967
+      width: 11
+      height: 17
+    spriteID: e905cd6385c5d4549b409308b99c22ff
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 75, y: 967}
+    spritePosition: {x: 167, y: 746}
+  - name: Bras G 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 587
+      width: 55
+      height: 325
+    spriteID: 99a48548c66a87a4cbed58cd2fc4fac7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 587}
+    spritePosition: {x: 240, y: 1049}
+  - name: Bras G 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 4
+      width: 82
+      height: 305
+    spriteID: 5c8046dc146981c4ea19b981c110ea5b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 75, y: 4}
+    spritePosition: {x: 173, y: 757}
+  - name: Jambe G 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 261
+      y: 4
+      width: 27
+      height: 364
+    spriteID: 36212dc429637f3418a35287a7e4a6bc
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 261, y: 4}
+    spritePosition: {x: 244, y: 220}
+  - name: Jambe G 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 4
+      width: 40
+      height: 343
+    spriteID: dfcb02ddb48295a4cb98e5cdc22ced14
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 165, y: 4}
+    spritePosition: {x: 242, y: 551}
+  - name: Tete
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 616
+      width: 61
+      height: 232
+    spriteID: 0275b44149eaa5649ae7dd009edf41d0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 75, y: 616}
+    spritePosition: {x: 249, y: 1420}
+  - name: Torse
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 63
+      height: 575
+    spriteID: a1c86380a8c87f44799ce223f0802f50
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 239, y: 816}
+  - name: Cou
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 856
+      width: 29
+      height: 103
+    spriteID: 54876bb54ff9cbb46961ff51ac7940c8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 75, y: 856}
+    spritePosition: {x: 273, y: 1370}
+  - name: Bras D 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 992
+      width: 9
+      height: 17
+    spriteID: a815c3ed426e3ab4ebd110b9bb9dfdbf
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 75, y: 992}
+    spritePosition: {x: 211, y: 754}
+  - name: Bras D 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 75
+      y: 317
+      width: 54
+      height: 291
+    spriteID: 32a56f29ef3f9c44785988be38fc75e1
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 75, y: 317}
+    spritePosition: {x: 215, y: 767}
+  - name: Bras D 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 4
+      width: 40
+      height: 324
+    spriteID: fd97b4b655ef6dd499448d19d332fa66
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 213, y: 4}
+    spritePosition: {x: 258, y: 1046}
+  - name: Jambe D 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 213
+      y: 336
+      width: 32
+      height: 361
+    spriteID: 6622a3c6954c0604993976ad1aaa1e85
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 213, y: 336}
+    spritePosition: {x: 226, y: 224}
+  - name: Jambe D 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 165
+      y: 355
+      width: 40
+      height: 340
+    spriteID: 505aef6d28ffeca479813c3ee75cdc19
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 165, y: 355}
+    spritePosition: {x: 232, y: 556}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Bras G 3
+    spriteName: Bras G 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e905cd6385c5d4549b409308b99c22ff
+    layerID: 27
+    mosaicPosition: {x: 75, y: 967}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bras G 1
+    spriteName: Bras G 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 99a48548c66a87a4cbed58cd2fc4fac7
+    layerID: 23
+    mosaicPosition: {x: 4, y: 587}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bras G 2
+    spriteName: Bras G 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5c8046dc146981c4ea19b981c110ea5b
+    layerID: 25
+    mosaicPosition: {x: 75, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Jambe G 2
+    spriteName: Jambe G 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 36212dc429637f3418a35287a7e4a6bc
+    layerID: 47
+    mosaicPosition: {x: 261, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Jambe G 1
+    spriteName: Jambe G 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: dfcb02ddb48295a4cb98e5cdc22ced14
+    layerID: 32
+    mosaicPosition: {x: 165, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tete
+    spriteName: Tete
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0275b44149eaa5649ae7dd009edf41d0
+    layerID: 43
+    mosaicPosition: {x: 75, y: 616}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Torse
+    spriteName: Torse
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a1c86380a8c87f44799ce223f0802f50
+    layerID: 21
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cou
+    spriteName: Cou
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 54876bb54ff9cbb46961ff51ac7940c8
+    layerID: 13
+    mosaicPosition: {x: 75, y: 856}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bras D 3
+    spriteName: Bras D 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a815c3ed426e3ab4ebd110b9bb9dfdbf
+    layerID: 26
+    mosaicPosition: {x: 75, y: 992}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bras D 2
+    spriteName: Bras D 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 32a56f29ef3f9c44785988be38fc75e1
+    layerID: 24
+    mosaicPosition: {x: 75, y: 317}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Bras D 1
+    spriteName: Bras D 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fd97b4b655ef6dd499448d19d332fa66
+    layerID: 14
+    mosaicPosition: {x: 213, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Jambe D 2
+    spriteName: Jambe D 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6622a3c6954c0604993976ad1aaa1e85
+    layerID: 46
+    mosaicPosition: {x: 213, y: 336}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Jambe D 1
+    spriteName: Jambe D 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 505aef6d28ffeca479813c3ee75cdc19
+    layerID: 12
+    mosaicPosition: {x: 165, y: 355}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []

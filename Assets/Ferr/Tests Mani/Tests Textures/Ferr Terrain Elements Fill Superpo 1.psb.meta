@@ -1,0 +1,581 @@
+fileFormatVersion: 2
+guid: 0dd4c135e3c31484f96d6573240d78f9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMasterTextureLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+    spritePosition: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Divers 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 526
+      height: 304
+    spriteID: 5404324b058e377458f49782b758626d
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 4}
+    spritePosition: {x: 460, y: 25}
+  - name: Cable 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 538
+      y: 4
+      width: 370
+      height: 231
+    spriteID: 5b2174026421081458461d7b82409b2c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 538, y: 4}
+    spritePosition: {x: 41, y: 14}
+  - name: Cable 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 397
+      y: 316
+      width: 394
+      height: 107
+    spriteID: 65ec8992f1996ef428fe7d28ad2e7336
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 397, y: 316}
+    spritePosition: {x: 17, y: 287}
+  - name: Tuyau 2
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 4
+      width: 67
+      height: 214
+    spriteID: 09513c64c10b7414fa6e5b402f8af273
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 916, y: 4}
+    spritePosition: {x: 721, y: 413}
+  - name: "Chemin\xE9e"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 824
+      width: 69
+      height: 111
+    spriteID: 3747b39aa7e80374298bca0ceb3085ae
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 824}
+    spritePosition: {x: 864, y: 474}
+  - name: pique
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 816
+      y: 507
+      width: 47
+      height: 134
+    spriteID: 46d0e47ac5d44c043bd89172f4f29aa9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 816, y: 507}
+    spritePosition: {x: 478, y: 484}
+  - name: Rivet
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 816
+      y: 649
+      width: 35
+      height: 33
+    spriteID: 0051ca013819db04eab75d61eb30aa4b
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 816, y: 649}
+    spritePosition: {x: 598, y: 520}
+  - name: Roue
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 916
+      y: 226
+      width: 79
+      height: 79
+    spriteID: 11b7e2bdeb3176148811853caa74fd25
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 916, y: 226}
+    spritePosition: {x: 287, y: 805}
+  - name: Os
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 507
+      width: 140
+      height: 309
+    spriteID: bbd9a2af59deaa74bbee30650defca22
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 507}
+    spritePosition: {x: 444, y: 690}
+  - name: "poign\xE9e"
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 943
+      width: 105
+      height: 63
+    spriteID: 05a8316f06932ec4184c57f28ca5f6fd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 943}
+    spritePosition: {x: 274, y: 926}
+  - name: Reglettes
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 152
+      y: 507
+      width: 121
+      height: 310
+    spriteID: 72b94774c43c83e4ba8021d2310841b2
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 152, y: 507}
+    spritePosition: {x: 633, y: 697}
+  - name: Plaque
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 281
+      y: 507
+      width: 178
+      height: 190
+    spriteID: 608b1ed4d5432fe44b3091f0f7ef59f7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 281, y: 507}
+    spritePosition: {x: 31, y: 817}
+  - name: Tuyau 1
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 467
+      y: 507
+      width: 341
+      height: 98
+    spriteID: 5d9a58a69529507479370bc60dba6edd
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 467, y: 507}
+    spritePosition: {x: 30, y: 669}
+  - name: Cable 3
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 316
+      width: 385
+      height: 183
+    spriteID: f35b4f0751f0ff844b3e3f8d68a26270
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 4, y: 316}
+    spritePosition: {x: 17, y: 444}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  layerMappingOption: 2
+  generatePhysicsShape: 0
+  paperDollMode: 0
+  keepDupilcateSpriteName: 1
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Divers 1
+    spriteName: Divers 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5404324b058e377458f49782b758626d
+    layerID: 53
+    mosaicPosition: {x: 4, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cable 1
+    spriteName: Cable 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5b2174026421081458461d7b82409b2c
+    layerID: 50
+    mosaicPosition: {x: 538, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cable 2
+    spriteName: Cable 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 65ec8992f1996ef428fe7d28ad2e7336
+    layerID: 49
+    mosaicPosition: {x: 397, y: 316}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tuyau 2
+    spriteName: Tuyau 2
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 09513c64c10b7414fa6e5b402f8af273
+    layerID: 48
+    mosaicPosition: {x: 916, y: 4}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "Chemin\xE9e"
+    spriteName: "Chemin\xE9e"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 3747b39aa7e80374298bca0ceb3085ae
+    layerID: 47
+    mosaicPosition: {x: 4, y: 824}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: pique
+    spriteName: pique
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 46d0e47ac5d44c043bd89172f4f29aa9
+    layerID: 46
+    mosaicPosition: {x: 816, y: 507}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Rivet
+    spriteName: Rivet
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0051ca013819db04eab75d61eb30aa4b
+    layerID: 45
+    mosaicPosition: {x: 816, y: 649}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Roue
+    spriteName: Roue
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 11b7e2bdeb3176148811853caa74fd25
+    layerID: 44
+    mosaicPosition: {x: 916, y: 226}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Os
+    spriteName: Os
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bbd9a2af59deaa74bbee30650defca22
+    layerID: 43
+    mosaicPosition: {x: 4, y: 507}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: "poign\xE9e"
+    spriteName: "poign\xE9e"
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 05a8316f06932ec4184c57f28ca5f6fd
+    layerID: 42
+    mosaicPosition: {x: 4, y: 943}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Reglettes
+    spriteName: Reglettes
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 72b94774c43c83e4ba8021d2310841b2
+    layerID: 41
+    mosaicPosition: {x: 152, y: 507}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Plaque
+    spriteName: Plaque
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 608b1ed4d5432fe44b3091f0f7ef59f7
+    layerID: 40
+    mosaicPosition: {x: 281, y: 507}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Tuyau 1
+    spriteName: Tuyau 1
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5d9a58a69529507479370bc60dba6edd
+    layerID: 39
+    mosaicPosition: {x: 467, y: 507}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  - name: Cable 3
+    spriteName: Cable 3
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f35b4f0751f0ff844b3e3f8d68a26270
+    layerID: 38
+    mosaicPosition: {x: 4, y: 316}
+    flatten: 0
+    isImported: 1
+    isVisible: 1
+  sharedRigPSDLayers: []
+  pSDLayerImportSetting: []
+  generateGOHierarchy: 0
+  textureAssetName: 
+  prefabAssetName: 
+  spriteLibAssetName: 
+  skeletonAssetName: 
+  secondarySpriteTextures: []
